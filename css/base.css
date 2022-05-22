@@ -21,7 +21,7 @@
  * # imports 
  *
  * ------------------------------------------------------------------- */
-@import url("https://fonts.googleapis.com/css?family=Heebo:300,400,500,600,700|Lora:400,400i,700,700i|IBM+Plex+Sans:300,400,400i,600,700,900");
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500;700&display=swap');
 
 
 /* ==========================================================================
@@ -78,7 +78,7 @@ hr {
 /* 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers. */
 pre {
-  font-family: monospace, monospace;  /* 1 */
+  font-family: 'Roboto Slab', serif;  /* 1 */
   font-size: 1em;  /* 2 */
 }
 
@@ -110,7 +110,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;  /* 1 */
+  font-family: 'Roboto Slab', serif;  /* 1 */
   font-size: 1em;  /* 2 */
 }
 
@@ -157,7 +157,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: inherit;  /* 1 */
+  font-family: 'Roboto Slab', serif;  /* 1 */
   font-size: 100%;  /* 1 */
   line-height: 1.15;  /* 1 */
   margin: 0;  /* 2 */
