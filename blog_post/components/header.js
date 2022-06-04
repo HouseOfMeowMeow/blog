@@ -19,7 +19,7 @@ class Header extends HTMLElement{
                 <nav class="header__nav-wrap">
                     <ul class="header__nav">
                         <li>
-                            <a href="index.html" title="">Trang Chủ</a>
+                            <a href="/blog/index.html" title="">Trang Chủ</a>
                         </li>
                         <li class="has-children">
                             <a href="" title="">Chủ Đề</a>

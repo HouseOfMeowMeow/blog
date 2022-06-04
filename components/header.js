@@ -6,7 +6,6 @@ class Header extends HTMLElement{
     connectedCallback(){
         this.innerHTML =`
             <header class="s-header">
-
                 <div class="header__top">
                     <div class="header__logo">
                         <a class="site-logo" href="index.html">
